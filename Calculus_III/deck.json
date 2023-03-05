@@ -1,0 +1,392 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "fb385aa8-bbaa-11ed-9592-7bfb26162716",
+            "deck_config_uuid": "11ae97d4-a760-11ed-8af1-a14d95925fac",
+            "desc": "Please see the <a href='https://ankiweb.net/shared/info/308708615'>shared deck page</a> for more info.",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Double Integrals",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>\\(\\boldsymbol{\\int_{c}^{d}\\int_{a}^{b} f(x,y)\\mathrm{d} x\\mathrm{d} y}\\)</div><div>iff a,b,c,d are real numbers</div>",
+                        "<div>\\(\\boldsymbol{f(a,c)-f(a,d)-f(b,c)+f(b,d)}\\)</div><div>from the fundamental theorem of Calculus</div>"
+                    ],
+                    "guid": "Q~}^FQ&T`J",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Double",
+                        "Formulas",
+                        "Fundamental",
+                        "Integrals",
+                        "Theorem"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>\\(\\boldsymbol{\\iint_{a}^{b} f(x) \\mathrm{d} y \\mathrm{d} x}\\)</div><div>what order do put the limits of integration.</div>",
+                        "\\(\\boldsymbol{\\int_{left}^{right}}\\)<div>Right - Left<br></div>"
+                    ],
+                    "guid": "qIhAzC6SFq",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Double",
+                        "Integrals",
+                        "order"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>\\(\\boldsymbol{\\iint_{a}^{b} f(y) \\mathrm{d} x \\mathrm{d} y}\\)<br></div><div>what order do put the limits of integration.</div>",
+                        "<div>\\(\\boldsymbol{\\int_{Bottom}^{Top}}\\)<br></div><div>Top - Bottom</div>"
+                    ],
+                    "guid": "GMNvnk{*o>",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Double",
+                        "Integrals",
+                        "order"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Lamina",
+                        "A slice of a 3d solid of variable density."
+                    ],
+                    "guid": "jkmuS%bQ8s",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Double",
+                        "Integrals",
+                        "terms"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>\\(\\boldsymbol{\\rho }\\)</div><div>rho</div>",
+                        "Mass Density"
+                    ],
+                    "guid": "k(TdcQUawe",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Finding Area using double integrals in polar coordinates.",
+                        "\\(\\boldsymbol{A=\\int_{0}^{2\\pi } \\int_{a}^{b}r \\mathrm{d}r \\mathrm{d} \\theta }\\)"
+                    ],
+                    "guid": "m7<r!#d~WL",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Double",
+                        "Integrals",
+                        "Polar"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "fb38ad6e-bbaa-11ed-9592-7bfb26162716",
+            "deck_config_uuid": "11ae97d4-a760-11ed-8af1-a14d95925fac",
+            "desc": "Please see the <a href='https://ankiweb.net/shared/info/775448073'>shared deck page</a> for more info.",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Vecors",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Directed Distance<div>(Forming a vector given two points)</div>",
+                        "\\(\\boldsymbol{\\vec{AB}=\\left \\langle B_{1}-A_{1}, B_{2}-A_{2}, B_{3}-A_{3} \\right \\rangle}\\)"
+                    ],
+                    "guid": "le7)FeMOvv",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Directed",
+                        "Distance",
+                        "Vectors"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Parallel Vector Properties",
+                        "<div>\\(\\boldsymbol{\\vec{A}\\times \\vec{B}=0}\\)</div><div>Or</div><div>If both vectors are scalars of eachother</div>"
+                    ],
+                    "guid": "n;w.D),w:x",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Parllel",
+                        "Vectors"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Perpendicular Vector Properties<div>(Orthagonal)</div>",
+                        "<div>\\(\\boldsymbol{\\vec{A}\\cdot \\vec{B}=0}\\)</div><div>The angle between the vectors is 90 degrees</div>"
+                    ],
+                    "guid": "z)CW=VXE1L",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Orthagonal",
+                        "Perdendicular",
+                        "Vectors"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>\\(\\boldsymbol{\\frac{\\partial z}{\\partial x}, \\frac{\\partial z}{\\partial y}}\\)<br></div>Finding Partial derivatives implicitly",
+                        "\\(\\boldsymbol{\\frac{\\partial z}{\\partial x}=\\frac{f_{x}}{f _{z}}, \\frac{\\partial z}{\\partial y}=\\frac{f_{y}}{f _{z}}}\\)"
+                    ],
+                    "guid": "g=s6|mB5{9",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Derivatives",
+                        "Implicitly",
+                        "Partial"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>\\(\\boldsymbol{\\left \\| A \\right \\|}\\)</div><div></div>Magnitude of a Vector",
+                        "\\(\\boldsymbol{\\left \\| A \\right \\|=\\sqrt{(A_{1})^{2}+(A_{2})^{2}}}\\)"
+                    ],
+                    "guid": "h|H51`8$P?",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Magnitude",
+                        "Vectors"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>\\(\\boldsymbol{\\vec{U}}\\)<br></div><div></div>Unit Vector",
+                        "\\(\\boldsymbol{\\vec{U} =\\frac{1}{ \\left \\| A \\right \\|}\\vec{A}}\\)"
+                    ],
+                    "guid": "wr;n>Lubz<",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Magnitude",
+                        "Vectors"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\\(\\boldsymbol{\\vec{a}\\cdot \\vec{b}}\\)<br><div>Dot Product</div>",
+                        "\\(\\displaylines{ \\boldsymbol{\\vec{a}\\cdot \\vec{b} = a_{1}b_{1}+a_{2}b_{2} \\\\ = \\left \\| a \\right \\|\\left \\| b \\right \\|\\cos \\theta \\\\\\ =}}\\)<br>Some Scalar"
+                    ],
+                    "guid": "lr!)8(WZ7}",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Dot",
+                        "Product",
+                        "Vectors"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Caunchy Schwartz Inequality",
+                        "\\(\\boldsymbol{ \\left | \\vec{a}\\cdot\\vec{b} \\right | \\leq \\left \\| a \\right \\| \\left \\| b \\right \\|}\\)"
+                    ],
+                    "guid": "QH8u=$j|PT",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Dot",
+                        "Product",
+                        "Vectors"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Triangle Inequality",
+                        "\\(\\boldsymbol{ \\left \\| \\vec{a}+\\vec{b} \\right \\| \\leq \\left \\| a \\right \\|+\\left \\| b \\right \\|}\\)"
+                    ],
+                    "guid": "p+M,fy}=tb",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Inequalities",
+                        "Vectors"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\\(\\boldsymbol{\\vec{a}}\\)<div>Position Vector<br></div>",
+                        "\\(\\boldsymbol{\\vec{a} = \\left \\langle a _{1}, a _{2} \\right \\rangle = a _{1}\\hat{i} + a _{2}\\hat{j}}\\)"
+                    ],
+                    "guid": "C,HFn~@Ht2",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Position",
+                        "Vector"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        }
+    ],
+    "crowdanki_uuid": "fb382880-bbaa-11ed-9592-7bfb26162716",
+    "deck_config_uuid": "11ae97d4-a760-11ed-8af1-a14d95925fac",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "11ae97d4-a760-11ed-8af1-a14d95925fac",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    2,
+                    0
+                ],
+                "order": 1,
+                "perDay": 500,
+                "separate": true
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": true,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 5000
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "Calculus III",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+            "css": ".card {\nfont-family: arial;\nfont-size: 20px;\ntext-align: center;\ncolor: black;\nbackground-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[10pt]{article} \n\\usepackage{amssymb,amsmath} \n\\usepackage[paperwidth=3in, paperheight=5in]{geometry}\n\\pagestyle{empty} \n\\setlength{\\parindent}{0in} \n\\begin{document} ",
+            "latexsvg": false,
+            "name": "Basic-07f63",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "Matrix",
+                "Multiplication",
+                "Product"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{Back}}",
+                    "bafmt": "",
+                    "bfont": "Arial",
+                    "bqfmt": "",
+                    "bsize": 12,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}
